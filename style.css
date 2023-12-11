@@ -1,0 +1,17 @@
+html {
+
+   box-sizing: border-box; 
+}
+
+body {
+
+    margin: 40px;
+}
+.wrapper {
+
+    margin: 0 0 20px 0;
+    width: 600px;
+    height: 400px;
+    
+    
+}
